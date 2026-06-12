@@ -5,3 +5,4 @@ langchain-groq
 langchain-huggingface
 faiss-cpu
 pypdf
+sentence-transformers
